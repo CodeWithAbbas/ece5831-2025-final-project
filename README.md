@@ -6,18 +6,13 @@ A deep learning speaker recognition system using LSTM neural networks with MFCC 
 ## Project Links
 
 ### Presentation & Documentation
-- **Presentation Video**: [Link to YouTube Video]
-- **Presentation Slides**: [Link to Google Drive - Presentation]
-- **Project Report**: [Link to Google Drive - Report]
+- **Presentation Video**: https://drive.google.com/drive/folders/1DtR1d3su8AkzgZLyB9uujVE9c0Y1oXup?usp=sharing
+- **Presentation Slides**: https://drive.google.com/drive/folders/1EE2xPEZ3LIH0Al7JThV6rQaEalsaASIT?usp=sharing
+- **Project Report**: https://drive.google.com/drive/folders/1rsrOT_a1eS5_x97lvQfCJFxi2Ubw4o9n?usp=drive_link
 
 ### Resources
-- **Dataset**: [Link to Google Drive - Dataset]
-- **Demo Video**: [Link to YouTube Demo]
-- **YouTube Channel**: [Link to Channel]
-
-### Google Drive Folder
-- **Complete Project Files**: [Link to ece5831-2025-final-project folder]
-  - Includes: dataset, presentation, and report subdirectories
+- **Dataset**: https://drive.google.com/drive/folders/1_zFiw8QxHIFUgCKe5_8ioB5KZ788SJvI?usp=drive_link
+- **Demo Video**: https://youtu.be/KdgDX2zgr6o
 
 ## Project Highlights
 - **LSTM-based Classification**: Deep neural network for speaker identification
