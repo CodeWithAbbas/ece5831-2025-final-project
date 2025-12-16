@@ -8,7 +8,7 @@ A deep learning speaker recognition system using LSTM neural networks with MFCC 
 ### Presentation & Documentation
 - **Presentation Video**: https://drive.google.com/file/d/18FurAJvFekTY0bxIUZxCxioVUDz2XvLo/view?usp=drive_link
 - **Presentation Slides**: https://drive.google.com/drive/folders/1EE2xPEZ3LIH0Al7JThV6rQaEalsaASIT?usp=sharing
-- **Project Report**: https://drive.google.com/drive/folders/1rsrOT_a1eS5_x97lvQfCJFxi2Ubw4o9n?usp=drive_link
+- **Project Report**: https://drive.google.com/file/d/1oqJ02mYSLgNO75fYVXRR4euNhWvZzv3I/view?usp=drive_link
 
 ### Resources
 - **Dataset**: https://drive.google.com/drive/folders/1_zFiw8QxHIFUgCKe5_8ioB5KZ788SJvI?usp=drive_link
@@ -35,8 +35,6 @@ A deep learning speaker recognition system using LSTM neural networks with MFCC 
 
 ## Repository Contents
 - `final-project.ipynb` - Complete project notebook with executed cells
-- `speaker_recognition_final_report.pdf` - Detailed project report
-- `Speaker_Recognition_Presentation.pptx` - Project presentation
 - `models/` - Trained LSTM models
 - `notebook_images/` - Visualization outputs
 - `test_recordings/` - Sample test audio files
@@ -62,7 +60,21 @@ The complete dataset is available on Google Drive (link above). It includes:
 - YouTube public figures audio samples
 - Custom device recordings for bias analysis
 
-## Author
+## Team Members & Contributions
+**Abbas Ali, Shravya Kumbham, Hesham Aldahbali**
+
+All team members contributed equally to this project, with shared responsibilities across all phases including:
+- Literature review and research
+- Data collection and preprocessing
+- Model development and implementation
+- Experimentation and debugging (including the critical device bias discovery)
+- Analysis and documentation
+- Presentation and reporting
+
+This project represents a collaborative effort where each team member actively participated in all aspects of the work.
+
+---
+
 ECE 5831 - Pattern Recognition and Neural Networks
 University of Michigan-Dearborn
-2025
+December 2025

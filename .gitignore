@@ -18,3 +18,8 @@ __pycache__/
 
 # Model files (optional - uncomment if models are too large)
 # models/
+
+# LaTeX files
+*.tex
+speaker_recognition_final_report.pdf
+Speaker_Recognition_Presentation.pptx
