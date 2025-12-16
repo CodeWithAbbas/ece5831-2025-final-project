@@ -50,8 +50,19 @@ A deep learning speaker recognition system using LSTM neural networks with MFCC 
 ## How to Run
 1. **Download the dataset** from the Google Drive link above
 2. **Extract the dataset** in the same directory as the notebook:
-   - The extracted folder should be named `Datasets/` and placed in the project root directory
-   - Final structure: `Project_Report/Datasets/` containing all dataset folders
+   - The extracted folder should be named `Datasets/`
+   - Place it in the same directory as `final-project.ipynb`
+   - **Final structure**:
+     ```
+     ./
+     ├── final-project.ipynb
+     ├── Datasets/
+     │   ├── Kaggle_dataset/
+     │   ├── Custom_datasets/
+     │   └── test_recordings/
+     ├── models/
+     └── notebook_images/
+     ```
 3. **Install dependencies**:
    ```bash
    pip install tensorflow librosa numpy pandas matplotlib seaborn
