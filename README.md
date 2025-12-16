@@ -11,7 +11,7 @@ A deep learning speaker recognition system using LSTM neural networks with MFCC 
 - **Project Report**: https://drive.google.com/file/d/1oqJ02mYSLgNO75fYVXRR4euNhWvZzv3I/view?usp=drive_link
 
 ### Resources
-- **Dataset**: https://drive.google.com/drive/folders/1_zFiw8QxHIFUgCKe5_8ioB5KZ788SJvI?usp=drive_link
+- **Dataset**: https://drive.google.com/drive/folders/1dpWiuj0VgwJvKr3L8nHDNV2ij86Jv5Oc?usp=drive_link
 - **Demo Video**: https://youtu.be/KdgDX2zgr6o
 
 ## Project Highlights
@@ -48,11 +48,19 @@ A deep learning speaker recognition system using LSTM neural networks with MFCC 
 | Phase 4 | Same Device | ~90% | ~87% (solved!) |
 
 ## How to Run
-1. Download the dataset from the Google Drive link above
-2. Install dependencies: `pip install tensorflow librosa numpy pandas matplotlib seaborn`
-3. Open `final-project.ipynb` in Jupyter Notebook
-4. Update dataset paths in the notebook to point to your downloaded dataset location
-5. Run cells sequentially to reproduce results
+1. **Download the dataset** from the Google Drive link above
+2. **Extract the dataset** in the same directory as the notebook:
+   - The extracted folder should be named `Datasets/` and placed in the project root directory
+   - Final structure: `Project_Report/Datasets/` containing all dataset folders
+3. **Install dependencies**:
+   ```bash
+   pip install tensorflow librosa numpy pandas matplotlib seaborn
+   ```
+4. **Open and run the notebook**:
+   - Open `final-project.ipynb` in Jupyter Notebook
+   - The notebook now uses relative paths - no path modifications needed!
+   - Simply run all cells sequentially to reproduce all results
+5. **Pre-trained models**: The notebook will load pre-trained models from the `models/` directory for testing
 
 ## Dataset Information
 The complete dataset is available on Google Drive (link above). It includes:
