@@ -1,0 +1,20 @@
+# Exclude datasets
+Datasets/
+Datasets.zip
+
+# Temporary files
+~$*.pptx
+~$*.docx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files (optional - uncomment if models are too large)
+# models/
